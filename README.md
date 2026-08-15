@@ -140,22 +140,56 @@ My work includes healthcare analytics, missing-data repair, readmission-risk mod
 
 ![Projects](https://img.shields.io/badge/FEATURED%20WORK-HEALTHCARE%20%7C%20ANALYTICS%20%7C%20APPLIED%20AI-7C3AED?style=for-the-badge&labelColor=0F172A)
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/ahmedmasood005-lab/Hospital-Bed-Occupancy-Missing-Data-Repair">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedmasood005-lab&repo=Hospital-Bed-Occupancy-Missing-Data-Repair&border_color=7C3AED&bg_color=30,0F172A,312E81&title_color=22D3EE&text_color=E2E8F0&icon_color=F472B6&border_radius=14" alt="Hospital Bed Occupancy Missing Data Repair repository">
-</a>
-<a href="https://github.com/ahmedmasood005-lab/AI-Business-Analytics-Dashboard">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedmasood005-lab&repo=AI-Business-Analytics-Dashboard&border_color=0891B2&bg_color=30,0F172A,164E63&title_color=67E8F9&text_color=E2E8F0&icon_color=F472B6&border_radius=14" alt="AI Business Analytics Dashboard repository">
-</a>
-<a href="https://github.com/ahmedmasood005-lab/Iris-Flower-Classification">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedmasood005-lab&repo=Iris-Flower-Classification&border_color=DB2777&bg_color=30,0F172A,500724&title_color=F9A8D4&text_color=E2E8F0&icon_color=22D3EE&border_radius=14" alt="Iris Flower Classification repository">
-</a>
-<a href="https://github.com/ahmedmasood005-lab/Sales_Prediction">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedmasood005-lab&repo=Sales_Prediction&border_color=2563EB&bg_color=30,0F172A,172554&title_color=93C5FD&text_color=E2E8F0&icon_color=F472B6&border_radius=14" alt="Sales Prediction repository">
-</a>
+### 🏥 Hospital Bed Occupancy Repair
 
-</div>
+Missing-data analysis and method comparison for reliable hospital census reporting.
+
+![Python](https://img.shields.io/badge/Python-Healthcare%20Analytics-7C3AED?style=flat-square&logo=python&logoColor=white)
+
+[![Open Repository](https://img.shields.io/badge/OPEN-REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/ahmedmasood005-lab/Hospital-Bed-Occupancy-Missing-Data-Repair)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 AI Business Analytics
+
+Interactive KPIs, business intelligence, secure access, and ML-powered revenue insights.
+
+![Streamlit](https://img.shields.io/badge/Streamlit-Business%20Intelligence-0891B2?style=flat-square&logo=streamlit&logoColor=white)
+
+[![Open Repository](https://img.shields.io/badge/OPEN-REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=67E8F9)](https://github.com/ahmedmasood005-lab/AI-Business-Analytics-Dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌸 Iris Flower Classification
+
+Multiclass species prediction with preprocessing, visualization, and evaluation.
+
+![Machine Learning](https://img.shields.io/badge/scikit--learn-Classification-DB2777?style=flat-square&logo=scikitlearn&logoColor=white)
+
+[![Open Repository](https://img.shields.io/badge/OPEN-REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=F9A8D4)](https://github.com/ahmedmasood005-lab/Iris-Flower-Classification)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Sales Prediction
+
+Advertising-based sales forecasting with regression, metrics, and visual analysis.
+
+![Regression](https://img.shields.io/badge/Python-Regression-2563EB?style=flat-square&logo=python&logoColor=white)
+
+[![Open Repository](https://img.shields.io/badge/OPEN-REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=93C5FD)](https://github.com/ahmedmasood005-lab/Sales_Prediction)
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -347,11 +381,12 @@ Two foundational machine-learning projects covering supervised regression and mu
 
 <div align="center">
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedmasood005-lab&show_icons=true&hide_border=false&border_color=7C3AED&border_radius=14&bg_color=30,0F172A,312E81&title_color=22D3EE&icon_color=F472B6&text_color=F8FAFC&ring_color=A78BFA)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ahmedmasood005-lab&hide_border=false&border=7C3AED&border_radius=14&background=0F172A&ring=22D3EE&fire=F472B6&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmasood005-lab&layout=compact&hide_border=false&border_color=0891B2&border_radius=14&bg_color=30,0F172A,164E63&title_color=67E8F9&text_color=F8FAFC)
+[![Profile](https://img.shields.io/badge/GITHUB-PROFILE-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedmasood005-lab)
+[![Repositories](https://img.shields.io/badge/PUBLIC-REPOSITORIES-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedmasood005-lab?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/ahmedmasood005-lab?style=for-the-badge&color=DB2777&labelColor=111827&logo=github)](https://github.com/ahmedmasood005-lab?tab=followers)
+[![Stars](https://img.shields.io/github/stars/ahmedmasood005-lab?affiliations=OWNER&style=for-the-badge&color=2563EB&labelColor=111827&logo=github)](https://github.com/ahmedmasood005-lab?tab=repositories)
 
 </div>
 
@@ -361,11 +396,12 @@ Two foundational machine-learning projects covering supervised regression and mu
 
 <div align="center">
 
-<a href="https://github.com/ahmedmasood005-lab?tab=achievements" title="View Ahmed Masood's GitHub achievements">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedmasood005-lab&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="Ahmed Masood's GitHub trophies">
-</a>
+[![Code Builder](https://img.shields.io/badge/🏆-CODE%20BUILDER-7C3AED?style=for-the-badge&labelColor=111827)](https://github.com/ahmedmasood005-lab?tab=repositories)
+[![Data Explorer](https://img.shields.io/badge/🏆-DATA%20EXPLORER-0891B2?style=for-the-badge&labelColor=111827)](https://github.com/ahmedmasood005-lab?tab=repositories)
+[![ML Creator](https://img.shields.io/badge/🏆-ML%20CREATOR-DB2777?style=for-the-badge&labelColor=111827)](https://github.com/ahmedmasood005-lab?tab=repositories)
+[![Open Source](https://img.shields.io/badge/🏆-OPEN%20SOURCE-2563EB?style=for-the-badge&labelColor=111827)](https://github.com/ahmedmasood005-lab?tab=overview)
 
-<sub>Click the trophies to view my GitHub achievements.</sub>
+<sub>Professional milestones based on my public project portfolio.</sub>
 
 </div>
 
@@ -375,9 +411,15 @@ Two foundational machine-learning projects covering supervised regression and mu
 
 <div align="center">
 
-<a href="https://github.com/ahmedmasood005-lab?tab=overview" title="View Ahmed Masood's contribution activity">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmasood005-lab&bg_color=0F172A&color=E2E8F0&line=22D3EE&point=F472B6&area=true&area_color=7C3AED&hide_border=false&border_color=6D28D9&radius=14" alt="Ahmed Masood's GitHub contribution activity graph">
-</a>
+[![Commits](https://img.shields.io/badge/ACTIVITY-CONSISTENT%20COMMITS-7C3AED?style=for-the-badge&logo=git&logoColor=white&labelColor=111827)](https://github.com/ahmedmasood005-lab?tab=overview)
+[![Projects](https://img.shields.io/badge/FOCUS-END--TO--END%20PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white&labelColor=111827)](https://github.com/ahmedmasood005-lab?tab=repositories)
+[![Growth](https://img.shields.io/badge/MINDSET-LEARN%20%26%20BUILD-DB2777?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=111827)](https://github.com/ahmedmasood005-lab?tab=overview)
+
+<br><br>
+
+| Build | Analyze | Validate | Document | Deliver |
+|:---:|:---:|:---:|:---:|:---:|
+| 🧠 | 📊 | ✅ | 📝 | 🚀 |
 
 </div>
 
@@ -387,15 +429,13 @@ Two foundational machine-learning projects covering supervised regression and mu
 
 <div align="center">
 
-<a href="https://github.com/ahmedmasood005-lab?tab=overview" title="View Ahmed Masood's full contribution calendar">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedmasood005-lab/ahmedmasood005-lab/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedmasood005-lab/ahmedmasood005-lab/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/ahmedmasood005-lab/ahmedmasood005-lab/output/github-contribution-grid-snake.svg" alt="Animated snake moving across Ahmed Masood's GitHub contribution grid">
-  </picture>
-</a>
+[![Contribution Journey](https://img.shields.io/badge/🐍_CONTRIBUTION_JOURNEY-VIEW_MY_LIVE_GITHUB_ACTIVITY-0F172A?style=for-the-badge&labelColor=7C3AED&color=0891B2)](https://github.com/ahmedmasood005-lab?tab=overview)
 
-<sub>Click the animation to explore my complete contribution history.</sub>
+<br>
+
+`Code` → `Commit` → `Learn` → `Improve` → `Build Again`
+
+<sub>Open my GitHub overview to explore the complete contribution calendar.</sub>
 
 </div>
 
