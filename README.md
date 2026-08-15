@@ -29,7 +29,7 @@ Data → Intelligence → Decisions → Impact
 
 <div align="center">
 
-ABOUT  •  STACK  •  PROJECTS  •  EXPERIENCE  •  ANALYTICS  •  TROPHIES  •  SNAKE  •  FOCUS  •  CONNECT
+ABOUT  •  STACK  •  PROJECTS  •  EXPERIENCE  •  ANALYTICS  •  TROPHIES  •  FOCUS  •  CONNECT
 
 </div>
 
@@ -520,24 +520,6 @@ GitHub Trophies
 Contribution Activity
 
 
-
-Contribution Snake
-
-<div align="center">
-
-<a href="https://github.com/ahmedmasood005-lab/ahmedmasood005-lab/tree/output" title="Open the generated contribution snake files">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedmasood005-lab/ahmedmasood005-lab/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedmasood005-lab/ahmedmasood005-lab/output/github-snake.svg">
-    <img alt="Ahmed Masood GitHub Contribution Snake" src="https://raw.githubusercontent.com/ahmedmasood005-lab/ahmedmasood005-lab/output/github-snake.svg">
-  </picture>
-</a>
-
-<br>
-
-
-
-</div>
 
 Current Focus
 
